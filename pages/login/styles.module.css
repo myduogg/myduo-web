@@ -1,0 +1,6 @@
+.sectionLogin {
+  background: url("../../src/assets/images/BackGroundLogin.png");
+  height: 100vh;
+  background-image: no-repeat;
+  background-size: cover;
+}
